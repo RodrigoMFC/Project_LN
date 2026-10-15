@@ -1,0 +1,6 @@
+,BERT plain acc,BERT plain macro-F1,+dup rule acc,+dup rule macro-F1,full system acc,full system macro-F1,no-keyword notes acc,no-keyword notes macro-F1
+42,54.87,58.13,75.47,74.63,95.13,92.7,72.34,62.19
+7,55.24,59.05,76.78,77.06,96.44,94.62,79.79,66.71
+123,55.62,58.31,77.15,76.7,95.69,93.49,75.53,63.84
+mean,55.24,58.49,76.47,76.13,95.76,93.6,75.89,64.25
+std,0.37,0.49,0.88,1.31,0.66,0.97,3.74,2.28
