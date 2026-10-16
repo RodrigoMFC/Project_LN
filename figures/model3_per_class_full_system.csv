@@ -1,0 +1,16 @@
+,precision,recall,f1-score,support
+Cardiovascular-Pulmonary,0.982,0.871,0.923,62.0
+Dermatology,0.8,0.8,0.8,5.0
+Gastroenterology,0.925,0.949,0.937,39.0
+General Medicine,0.736,0.929,0.821,42.0
+Neurology,0.944,0.919,0.932,37.0
+Neurosurgery,1.0,0.938,0.968,16.0
+Obstetrics-Gynecology,0.962,0.926,0.943,27.0
+Ophthalmology,0.938,1.0,0.968,15.0
+Orthopedic,0.984,1.0,0.992,60.0
+Psychiatry-Psychology,0.875,0.875,0.875,8.0
+Radiology,0.977,0.977,0.977,44.0
+Surgery,1.0,0.978,0.989,179.0
+accuracy,0.951,0.951,0.951,0.951
+macro avg,0.927,0.93,0.927,534.0
+weighted avg,0.957,0.951,0.953,534.0

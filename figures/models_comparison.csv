@@ -1,0 +1,7 @@
+model,plain acc,plain mF1,plain minF1,+dup acc,+dup mF1,full acc,full mF1,full minF1,no-KW acc,no-KW mF1,no-KW acc std
+"Baseline (MNB, description)",39.3,13.8,0.0,54.5,34.7,88.2,84.5,22.2,33.0,31.0,
+Model 1: TF-IDF + SVM,44.2,49.0,20.3,76.2,76.3,94.6,93.1,79.2,69.1,62.1,
+Model 2: n-grams + LR,40.1,42.9,18.2,77.3,76.2,94.8,93.3,79.6,70.2,63.3,
+Model 2 + random swap,38.0,40.3,16.6,77.4,76.1,94.8,93.3,79.6,70.2,63.3,0.0
+Model 2 + EDA,37.7,40.0,15.8,77.3,76.0,94.8,93.4,79.4,70.2,63.4,0.0
+Model 2 + mode de-duplication,38.6,42.6,11.1,76.6,77.0,94.8,93.3,80.4,70.2,62.7,
